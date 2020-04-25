@@ -6,14 +6,14 @@ The app has one component named autocomplete, that has a textbox, a button and a
 
 If a suggestion(book title) is clicked, then the title is displayed in the text box. user can add it to list by clicking the button.
 
-<app>
-      <autocomplete>
-          <input/>
-          <suggestionlist>
-             <suggestion>
-          <suggestionlist>  
-      </autocomplete>
-      <booklist>
-          <book/>
-      <booklist>    
-</app
+\<app><br/>
+ &nbsp;     \<autocomplete><br/>
+         &nbsp; &nbsp;  \<input/><br/>
+         &nbsp; &nbsp; \<suggestionlist><br/>
+             &nbsp; &nbsp; &nbsp; \<suggestion><br/>
+          &nbsp; &nbsp; \<suggestionlist><br/>
+      &nbsp; \</autocomplete><br/>
+      &nbsp;\<booklist><br/>
+          &nbsp; &nbsp; \<book/><br/>
+      &nbsp;\<booklist> <br/>   
+\</app><br/>
