@@ -17,3 +17,9 @@ If a suggestion(book title) is clicked, then the title is displayed in the text 
           &nbsp; &nbsp; \<book/><br/>
       &nbsp;\<booklist> <br/>   
 \</app><br/>
+
+
+run 
+# npm install
+# npm test
+# npm start
